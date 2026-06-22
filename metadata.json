@@ -1,0 +1,6 @@
+{
+  "name": "Chinakka Birthday",
+  "description": "An interactive slide-by-slide PowerPoint experience for Chinakka Deevena's 19th Birthday, styled in deep purples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
